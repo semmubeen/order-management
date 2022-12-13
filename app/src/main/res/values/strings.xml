@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MultiBank Group Assessment</string>
+    <string name="order_desc">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</string>
+    <string name="order_number_here">Order number here</string>
+    <string name="order_details">Order Details</string>
+    <string name="date_here">Date here</string>
+    <string name="close">Close</string>
+    <string name="state_here">STATE HERE</string>
+    <string name="order_no_here">Order No Here</string>
+    <string name="place_order">Place Order</string>
+</resources>
