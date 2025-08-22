@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="welcome_header"></string>
+  <string name="app_name"></string>
+  <string name="order_desc"></string>
+  <string name="order_number_here"></string>
+  <string name="order_details"></string>
+  <string name="date_here"></string>
+  <string name="close"></string>
+  <string name="state_here"></string>
+  <string name="order_no_here"></string>
+  <string name="place_order">فاسک</string>
+  <string name="new_string_added">ادسفجچا</string>
+</resources>
